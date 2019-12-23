@@ -1,0 +1,121 @@
+h2 {
+    font-family: 'Girassol', cursive;
+
+
+}
+
+
+
+
+body {
+
+    font-family: 'Roboto', sans-serif;;
+}
+
+
+p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p {
+   padding: 0.5%;
+   font-size: medium;
+   font-style: normal;
+   color: black;
+}
+a{
+  color: cyan;
+  font-size: medium;
+  font-weight: bolder;
+}
+
+body {
+ max-width: 90%;
+ margin: 20px, 20px, 20px, 20px;
+background: -webkit-linear-gradient(90deg, rgb(24, 24, 24), rgb(255, 255, 255));
+background: linear-gradient(90deg, rgb(24, 24, 24), rgb(255, 255, 255));
+background-image: url(images/Natural-1080p-Background.jpg);
+background-repeat: no-repeat;
+background-position: bottom 20px, right 10px;
+background-size: cover;
+ 
+
+
+}
+
+q { 
+    max-width: 50%;
+    background-color: darkgrey;
+    border-left-style: solid;
+    border-radius: 2px;
+    padding-top : 10px;
+    padding-bottom: 10px;
+    
+    
+}
+    
+.farmer {
+    border-left-style:solid ;
+    border-left-color: yellowgreen;
+
+
+}
+
+.villager {
+    border-left-style: style;
+    border-left-color: blue
+}
+
+
+h1{
+    background-color: darkred;
+    font-family: 'Girassol', cursive;
+
+
+}
+
+
+header {
+
+    background-color: yellow;
+}
+
+q {
+
+    font-style: italic;
+}
+
+.mal {
+
+    text-transform: uppercase;
+    color: red;
+}
+
+.bien {
+
+    text-transform: uppercase;
+    color: green;
+}
+
+th {
+
+    background-color: grey;
+}
+
+td {
+    background-color: white;
+}
+
+li :first-of-type {
+
+    padding-right: 10px;
+}
+li :last-of-type {
+
+    padding-right: 10px;
+}
+
+p :first-of-type {
+
+    font-weight: bold;
+}
